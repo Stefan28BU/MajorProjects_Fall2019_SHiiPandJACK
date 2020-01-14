@@ -1,0 +1,6 @@
+11月 26, 2019 5:28:56 上午 shiip.server.ServerAIO handleRead
+INFO: Received message: Settings: StreamID=0
+11月 26, 2019 5:29:06 上午 shiip.server.ServerAIO handleRead
+INFO: Received message: Window_Update: StreamID=0 increment=501
+11月 26, 2019 5:29:06 上午 shiip.server.ServerAIO handleRead
+INFO: Received message: Window_Update: StreamID=0 increment=501
